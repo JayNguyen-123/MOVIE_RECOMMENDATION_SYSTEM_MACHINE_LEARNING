@@ -1,1 +1,4 @@
 # MOVIE_RECOMMENDATION_SYSTEM_MACHINE_LEARNING
+Building a Movie Recommedation System using Item-based Collaborative Filtering Algorithm
+- A Recommendation System is a filtration program whose prime goal is to predict a user's "rating" or "preference" toward a domain-specific item. In this case, this domain-specific item is a movie. Therefore, the main focus of our recommendation system is to filter and predict only those movies that a user would prefer, given some data about the user.
+- Item-based Collaborative Filtering: Focuses on finding similar movies instead of similar users to recommend to user ‘A’ based on their past preferences. It identifies pairs of movies rated/liked by the same users, measures their similarity across all users who rated both, and then suggests similar films based on the similarity scores.
